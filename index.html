@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bora Presentear – Catálogo</title>
+  <link rel="stylesheet" href="style.css">
+
+
+   <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1225989666102044');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1225989666102044&ev=PageView&noscript=1"
+    /></noscript>
+  <!-- End Meta Pixel Code -->
+</head>
+<body>
+
+  <header>
+    <h1>Catálogo Bora Presentear</h1>
+    <p>Toque no produto para chamar no WhatsApp 💚</p>
+  </header>
+  
+  <!-- Filtros -->
+    <div class="filtros">
+        <button class="filtro" data-cat="todos">Todos</button>
+        <button class="filtro" data-cat="masculino">Masculino</button>
+        <button class="filtro" data-cat="feminino">Feminino</button>
+        <button class="filtro" data-cat="hidratante">Hidratante</button>
+        <button class="filtro" data-cat="kit">Kits</button>
+        <button class="filtro" data-cat="infantil">Infantil</button>
+        <button class="filtro" data-cat="cabelos">Cabelos</button>
+        <button class="filtro" data-cat="splash">Body Splash</button>
+        <button class="filtro" data-cat="outros">Outros</button>
+        <!-- <button class="filtro" data-cat="promo">Promoções</button> -->
+    </div>
+
+   <div id="lista-produtos"></div>
+
+   <!-- Carrinho Fixo no Rodapé -->
+  <div id="carrinho-bar">
+    <span id="carrinho-info">🛒 Carrinho vazio</span>
+    <button id="btn-ver-carrinho">Ver</button>
+    <button id="btn-finalizar">Finalizar Pedido</button>
+  </div>
+
+  <!-- Caixa do carrinho -->
+  <div id="carrinho-box" class="hidden">
+    <h3>Seu Carrinho</h3>
+    <div id="carrinho-itens"></div>
+
+    <button id="btn-limpar">🗑 Limpar Carrinho</button>
+    <button id="btn-fechar-carrinho">Fechar</button>
+  </div>
+
+  <script src="script.js"></script>
+  
+
+</body>
+</html>

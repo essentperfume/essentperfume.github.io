@@ -1,0 +1,544 @@
+{
+  "produtos": [
+    {
+    "categoria": "masculino",
+    "nome": "Malbec Trad. 100ml",
+    "preco": "239.90",
+    "imagem": "imagens/Malbec Tradicional 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Malbec Magnectic 100ml",
+    "preco": "263.90",
+    "imagem": "imagens/Malbec Magnectic 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Malbec Bleu 100ml",
+    "preco": "263.90",
+    "imagem": "imagens/Malbec Bleu 100ml.png"
+  },  
+  {
+    "categoria": "masculino",
+    "nome": "Egeo Original 90ml",
+    "preco": "169.90",
+    "imagem": "imagens/Egeo Original 90ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Egeo Bomb Black 90ml",
+    "preco": "170.90",
+    "imagem": "imagens/Egeo Bomb Black 90ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Zaad Tradicional 95ml",
+    "preco": "354.90",
+    "imagem": "imagens/Zaad Tradicional 95ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Clash 100ml",
+    "preco": "174.90",
+    "imagem": "imagens/Clash 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Botica 214 African Sunrise 90ml",
+    "preco": "249.90",
+    "imagem": "imagens/Botica 214 African Sunrise 90ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Botica 214 Fiji Paradise 90ml",
+    "preco": "249.90",
+    "imagem": "imagens/Botica 214 Fiji Paradise 90ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Arbo Atlântica 100ml",
+    "preco": "179.90",
+    "imagem": "imagens/Arbo Atlântica 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Intention For Man 100ml",
+    "preco": "164.90",
+    "imagem": "imagens/Intention For Man 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Connexion 100ml",
+    "preco": "179.90",
+    "imagem": "imagens/Connexion 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Club 6 Exclusive 95ml",
+    "preco": "159.90",
+    "imagem": "imagens/Club 6 Exclusive 95ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Coffee Man 100ml",
+    "preco": "229.90",
+    "imagem": "imagens/Coffee Man 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Uomini Tradicional 100ml",
+    "preco": "219.90",
+    "imagem": "imagens/Uomini Tradicional 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Uomini Black 100ml",
+    "preco": "219.90",
+    "imagem": "imagens/Uomini Black 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Man 100ml",
+    "preco": "199.90",
+    "imagem": "imagens/Man 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Portinari Tradicional 100ml",
+    "preco": "209.90",
+    "imagem": "imagens/Portinari Tradicional 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Quasar Tradicional 100ml",
+    "preco": "186.90",
+    "imagem": "imagens/Quasar Tradicional 100ml.png"
+  },
+  {
+    "categoria": "masculino",
+    "nome": "Quasar Deep Blue 100ml",
+    "preco": "186.90",
+    "imagem": "imagens/Quasar Deep Blue 100ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Liz Flora 100ml",
+    "preco": "181.90",
+    "imagem": "imagens/Liz Flora 100ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Accordes 80ml",
+    "preco": "252.90",
+    "imagem": "imagens/Accordes Tradicional 80ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Accordes Harmonia 80ml",
+    "preco": "252.90",
+    "imagem": "imagens/Accordes Harmonia 80ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "La Victorie 75ml",
+    "preco": "274.90",
+    "imagem": "imagens/La Victorie 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "La Victorie Intense 75ml",
+    "preco": "274.90",
+    "imagem": "imagens/La Victorie Intense 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Botica 214 Sevilla Dorada 75ml",
+    "preco": "249.90",
+    "imagem": "imagens/Sevilla Dourada 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Elysée Blanc 50ml",
+    "preco": "335.90",
+    "imagem": "imagens/Elysee Blanc 50ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Eldora Noir 75ml",
+    "preco": "259.90",
+    "imagem": "imagens/Eldora Noir 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Floratta Rose Bouquet 75ml",
+    "preco": "174.90",
+    "imagem": "imagens/Floratta Rose Bouquet 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Floratta Cerejeira em Flor 75ml",
+    "preco": "174.90",
+    "imagem": "imagens/Floratta Cerejeira em Flor 75ml.png"
+  },
+  {
+    "categoria": "feminino",
+    "nome": "Velvet Divine 100ml",
+    "preco": "129.90",
+    "imagem": "imagens/Eudora Velvet Divine 100ml.png"
+  },  
+  {
+    "categoria": "feminino",
+    "nome": "Velvet Confident 100ml",
+    "preco": "129.90",
+    "imagem": "imagens/Eudora Velvet Confident 100ml.png"
+  },  
+  {
+    "categoria": "feminino",
+    "nome": "Coffee Woman Duo 100ml",
+    "preco": "229.90",
+    "imagem": "imagens/Coffee Woman Duo 100ml.png"
+  },  
+  {
+    "categoria": "feminino",
+    "nome": "Glamour Midnight 75ml",
+    "preco": "204.90",
+    "imagem": "imagens/Glamour Midnight 75ml.png"
+  },  
+  {
+    "categoria": "feminino",
+    "nome": "Magnific Audaz 75ml",
+    "preco": "224.90",
+    "imagem": "imagens/Eudora Magnific Audaz 75ml.png"
+  },  
+  {
+    "categoria": "hidratante",
+    "nome": "Creme Acetinado Lily Tradicional 250ml",
+    "preco": "159.90",
+    "imagem": "imagens/Creme Acetinado Lily Tradicional 250ml.png"
+  },  
+  {
+    "categoria": "hidratante",
+    "nome": "Creme Acetinado Lily Gardénia 250ml",
+    "preco": "159.90",
+    "imagem": "imagens/Creme Acetinado Lily Gardénia 250ml.png"
+  },  
+  {
+    "categoria": "hidratante",
+    "nome": "Refil Creme Acetinado Elysée Blanc 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Refil Creme Acetinado Elysée Blanc 200ml.png"
+  },  
+  {
+    "categoria": "hidratante",
+    "nome": "Loção Hidratante Corporal NativaSpa Ameixa 400ml",
+    "preco": "95.90",
+    "imagem": "imagens/Loção Hidratante Corporal NativaSpa Ameixa 400ml.png"
+  },
+  {
+    "categoria": "hidratante",
+    "nome": "Refil Loção Hidratante Corporal NativaSpa Ameixa 400ml",
+    "preco": "74.90",
+    "imagem": "imagens/Refil Loção Hidratante Corporal NativaSpa Ameixa 400ml.png"
+  },
+  {
+    "categoria": "hidratante",
+    "nome": "Creme Hidratante Corporal Eudora Bombom de Avelã 400ml",
+    "preco": "54.90",
+    "imagem": "imagens/Creme Hidratante Corporal Eudora Bombom de Avelã 400ml.png"
+  },
+  {
+    "categoria": "hidratante",
+    "nome": "Hidratante para mãos Eudora La Piel Tâmaras Egípcias FPS15 50g",
+    "preco": "36.90",
+    "imagem": "imagens/Hidratante para mãos Eudora La Piel Tâmaras Egípcias FPS15 50g.png"
+  },
+  {
+    "categoria": "hidratante",
+    "nome": "Loção Hidratante Corporal Eudora Lyra 150ml",
+    "preco": "54.99",
+    "imagem": "imagens/Loção Hidratante Corporal Eudora Lyra 150ml.png"
+  },
+  {
+    "categoria": "hidratante",
+    "nome": "Loção Hidratante Corporal QDB Prazer Berê 200ml",
+    "preco": "47.90",
+    "imagem": "imagens/Loção Hidratante Corporal QDB Prazer Berê 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Show de Banho 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Show de Banho 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Beijinho 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Beijinho 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Nuvem 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Nuvem 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Nuvem de Alegria 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Nuvem de Alegria 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Pessegura 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Pessegura 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash Cuide-se Bem Deleite 200ml",
+    "preco": "99.90",
+    "imagem": "imagens/Body Splash Cuide-se Bem Deleite 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Ameixa 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Ameixa 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Ameixa Dourada 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Ameixa Dourada 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Ameixa Negra 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Ameixa Negra 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Cereja Rouge 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Cereja Rouge 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Orquídea Noire 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Orquídea Noire 200ml.png"
+  },  
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Uva Merlot 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Uva Merlot 200ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Splash NativaSpa Jasmim Sambac 200ml",
+    "preco": "109.90",
+    "imagem": "imagens/Body Splash NativaSpa Jasmim Sambac 200ml.png"
+  },    
+  {
+    "categoria": "splash",
+    "nome": "Body Spray Accordes 100ml",
+    "preco": "49.90",
+    "imagem": "imagens/Body Spray Accordes 100ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Spray Floratta Red 100ml",
+    "preco": "49.90",
+    "imagem": "imagens/Body Spray Floratta Red 100ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Spray Eudora Diva Esplêndida 100ml",
+    "preco": "47.90",
+    "imagem": "imagens/Body Spray Eudora Diva Esplêndida 100ml.png"
+  },
+  {
+    "categoria": "splash",
+    "nome": "Body Spray Eudora Magnific 100ml",
+    "preco": "47.90",
+    "imagem": "imagens/Body Spray Eudora Magnific 100ml.png"
+  },
+  {
+    "categoria": "infantil",
+    "nome": "Sophie Like 100ml",
+    "preco": "116.90",
+    "imagem": "imagens/Sophie Like 100ml.png"
+  },
+  {
+    "categoria": "infantil",
+    "nome": "Sophie Hello 100ml",
+    "preco": "116.90",
+    "imagem": "imagens/Sophie Hello 100ml.png"
+  },
+  {
+    "categoria": "infantil",
+    "nome": "Sophie Candy 100ml",
+    "preco": "116.90",
+    "imagem": "imagens/Sophie Candy 100ml.png"
+  },
+  {
+    "categoria": "infantil",
+    "nome": "Sophie Spider Gwen 100ml",
+    "preco": "116.90",
+    "imagem": "imagens/Sophie Spider Gwen 100ml.png"
+  },
+  {
+    "categoria": "infantil",
+    "nome": "Next Infantil 75ml",
+    "preco": "114.90",
+    "imagem": "imagens/Next Infantil 75ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Shampoo Nutri Óleos Poderosos 250ml",
+    "preco": "52.90",
+    "imagem": "imagens/Shampoo Nutri Óleos Poderosos 250ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Shampoo Siàge Acelera Crescimento  250ml",
+    "preco": "52.90",
+    "imagem": "imagens/Shampoo Siàge Acelera Crescimento  250ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Condicionador Siàge Acelera Crescimento  200ml",
+    "preco": "54.99",
+    "imagem": "imagens/Condicionador Siàge Acelera Crescimento  200ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Shampoo Siàge Pro Cronology Curvas 250ml",
+    "preco": "52.90",
+    "imagem": "imagens/Shampoo Siàge Pro Cronology Curvas 250ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Condicionador Siàge Pro Cronology Curvas 250ml",
+    "preco": "54.99",
+    "imagem": "imagens/Condicionador Siàge Pro Cronology Curvas 250ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Creme para Pentear Siàge Pro Cronology Curvas 300ml",
+    "preco": "54.99",
+    "imagem": "imagens/Creme para Pentear Siàge Pro Cronology Curvas 300ml.png"
+  },    
+  {
+    "categoria": "cabelos",
+    "nome": "Shampoo Match Ciência das curvas 300ml",
+    "preco": "52.90",
+    "imagem": "imagens/Shampoo Match Ciência das curvas 300ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Condicionador Match Ciência das curvas 300ml",
+    "preco": "54.90",
+    "imagem": "imagens/Condicionador Match Ciência das curvas 300ml.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Máscara Capilar Match Ciência das Curvas Crespo 350g",
+    "preco": "76.90",
+    "imagem": "imagens/Máscara Capilar Match Ciência das Curvas Crespo 350g.png"
+  },
+  {
+    "categoria": "cabelos",
+    "nome": "Sabonete Liquido Biocolágeno Tâmaras Egípcias 200ml",
+    "preco": "76.90",
+    "imagem": "imagens/Sabonete Liquido Biocolágeno Tâmaras Egípcias 200ml.png"
+  },  
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Instance Algodão e Jasmim 150ml/90g",
+    "preco": "34.90",
+    "imagem": "imagens/Antitranspirante Aerosol Instance Algodão e Jasmim 150ml.png"
+  },
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Instance Frutas Vermelhas 150ml/90g",
+    "preco": "34.90",
+    "imagem": "imagens/Antitranspirante Aerosol Instance Frutas Vermelhas 150ml.png"
+  },
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Instance Karité 150ml/90g",
+    "preco": "34.90",
+    "imagem": "imagens/Antitranspirante Aerosol Instance Karité 150ml.png"
+  },
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Lily 125ml/75g",
+    "preco": "41.90",
+    "imagem": "imagens/Antitranspirante Aerosol Lily 125ml.png"
+  },  
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante Aerosol Botica 214 Fiji Paradise 125ml/75g",
+    "preco": "41.90",
+    "imagem": "imagens/Antitranspirante Aerosol Botica 214 Fiji Paradise 125ml.png"
+  },  
+  {
+    "categoria": "outros",
+    "nome": "Óleo Bifásico Corporal NativaSpa Uva Merlot 200ml",
+    "preco": "104.90",
+    "imagem": "imagens/Óleo Bifásico Corporal NativaSpa Uva Merlot 200ml.png"
+  },  
+  {
+    "categoria": "outros",
+    "nome": "Protetor Solar Facial Fluido FPS 80 Botik Ácido Hialurônico 40ml",
+    "preco": "109.90",
+    "imagem": "imagens/Protetor Solar Facial Fluido FPS 80 Botik Ácido Hialurônico 40ml.png"
+  },   
+  {
+    "categoria": "outros",
+    "nome": "Gel Hidratante Facial Neo Dermo Hidra Mineral Collection 30g",
+    "preco": "109.90",
+    "imagem": "imagens/Gel Hidratante Facial Neo Dermo Hidra Mineral Collection 30g.png"
+  },   
+  {
+    "categoria": "outros",
+    "nome": "Creme perfumado para mãos Instance Karité 30g",
+    "preco": "21.99",
+    "imagem": "imagens/Creme perfumado para mãos Instance Karité 30g.png"
+  },     
+  {
+    "categoria": "outros",
+    "nome": "Creme perfumado para mãos Instance Baunilha 30g",
+    "preco": "21.99",
+    "imagem": "imagens/Creme perfumado para mãos Instance Baunilha 30g.png"
+  },     
+  {
+    "categoria": "outros",
+    "nome": "Antitranspirante em creme Instance Karité 80g",
+    "preco": "27.90",
+    "imagem": "imagens/Antitranspirante em creme Instance Karité 80g.png"
+  },     
+  {
+    "categoria": "kit",
+    "nome": "Presente Floratta Red 2 Itens",
+    "preco": "84.80",
+    "imagem": "imagens/Kit Body Spray Floratta Red.png"
+  },
+  {
+    "categoria": "kit",
+    "nome": "Presente Celebre Agora Feminino",
+    "preco": "144.80",
+    "imagem": "imagens/Kit Celebre Feminino.png"
+  },
+  {
+    "categoria": "kit",
+    "nome": "Eudora Pulse",
+    "preco": "124.90",
+    "imagem": "imagens/Kitj Eudora Pulse.png"
+  }  
+  ]
+}
