@@ -8,12 +8,6 @@
   },
   {
     "categoria": "masculino",
-    "nome": "Malbec Magnectic 100ml",
-    "preco": "263.90",
-    "imagem": "imagens/Malbec Magnectic 100ml.png"
-  },
-  {
-    "categoria": "masculino",
     "nome": "Malbec Bleu 100ml",
     "preco": "263.90",
     "imagem": "imagens/Malbec Bleu 100ml.png"
@@ -29,24 +23,6 @@
     "nome": "Egeo Bomb Black 90ml",
     "preco": "170.90",
     "imagem": "imagens/Egeo Bomb Black 90ml.png"
-  },
-  {
-    "categoria": "masculino",
-    "nome": "Zaad Tradicional 95ml",
-    "preco": "354.90",
-    "imagem": "imagens/Zaad Tradicional 95ml.png"
-  },
-  {
-    "categoria": "masculino",
-    "nome": "Clash 100ml",
-    "preco": "174.90",
-    "imagem": "imagens/Clash 100ml.png"
-  },
-  {
-    "categoria": "masculino",
-    "nome": "Botica 214 African Sunrise 90ml",
-    "preco": "249.90",
-    "imagem": "imagens/Botica 214 African Sunrise 90ml.png"
   },
   {
     "categoria": "masculino",
@@ -137,12 +113,6 @@
     "nome": "Accordes Harmonia 80ml",
     "preco": "252.90",
     "imagem": "imagens/Accordes Harmonia 80ml.png"
-  },
-  {
-    "categoria": "feminino",
-    "nome": "La Victorie 75ml",
-    "preco": "274.90",
-    "imagem": "imagens/La Victorie 75ml.png"
   },
   {
     "categoria": "feminino",
