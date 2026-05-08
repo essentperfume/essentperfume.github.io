@@ -140,27 +140,9 @@
   },
   {
     "categoria": "feminino",
-    "nome": "Floratta Rose Bouquet 75ml",
-    "preco": "174.90",
-    "imagem": "imagens/Floratta Rose Bouquet 75ml.png"
-  },
-  {
-    "categoria": "feminino",
     "nome": "Floratta Cerejeira em Flor 75ml",
     "preco": "174.90",
     "imagem": "imagens/Floratta Cerejeira em Flor 75ml.png"
-  },
-  {
-    "categoria": "feminino",
-    "nome": "Velvet Divine 100ml",
-    "preco": "129.90",
-    "imagem": "imagens/Eudora Velvet Divine 100ml.png"
-  },  
-  {
-    "categoria": "feminino",
-    "nome": "Velvet Confident 100ml",
-    "preco": "129.90",
-    "imagem": "imagens/Eudora Velvet Confident 100ml.png"
   },  
   {
     "categoria": "feminino",
@@ -185,19 +167,7 @@
     "nome": "Creme Acetinado Lily Tradicional 250ml",
     "preco": "159.90",
     "imagem": "imagens/Creme Acetinado Lily Tradicional 250ml.png"
-  },  
-  {
-    "categoria": "hidratante",
-    "nome": "Creme Acetinado Lily Gardénia 250ml",
-    "preco": "159.90",
-    "imagem": "imagens/Creme Acetinado Lily Gardénia 250ml.png"
-  },  
-  {
-    "categoria": "hidratante",
-    "nome": "Refil Creme Acetinado Elysée Blanc 200ml",
-    "preco": "109.90",
-    "imagem": "imagens/Refil Creme Acetinado Elysée Blanc 200ml.png"
-  },  
+  },     
   {
     "categoria": "hidratante",
     "nome": "Loção Hidratante Corporal NativaSpa Ameixa 400ml",
