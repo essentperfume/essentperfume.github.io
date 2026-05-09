@@ -15,13 +15,13 @@
   {
     "categoria": "masculino",
     "nome": "Egeo Original 90ml",
-    "preco": "169.90",
+    "preco": "175.90",
     "imagem": "imagens/Egeo Original 90ml.png"
   },
   {
     "categoria": "masculino",
     "nome": "Egeo Bomb Black 90ml",
-    "preco": "170.90",
+    "preco": "175.90",
     "imagem": "imagens/Egeo Bomb Black 90ml.png"
   },
   {
@@ -39,7 +39,7 @@
   {
     "categoria": "masculino",
     "nome": "Intention For Man 100ml",
-    "preco": "164.90",
+    "preco": "169.90",
     "imagem": "imagens/Intention For Man 100ml.png"
   },
   {
@@ -462,18 +462,6 @@
     "preco": "27.90",
     "imagem": "imagens/Antitranspirante em creme Instance Karité 80g.png"
   },     
-  {
-    "categoria": "kit",
-    "nome": "Presente Floratta Red 2 Itens",
-    "preco": "84.80",
-    "imagem": "imagens/Kit Body Spray Floratta Red.png"
-  },
-  {
-    "categoria": "kit",
-    "nome": "Presente Celebre Agora Feminino",
-    "preco": "144.80",
-    "imagem": "imagens/Kit Celebre Feminino.png"
-  },
   {
     "categoria": "kit",
     "nome": "Eudora Pulse",
